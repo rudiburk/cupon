@@ -27,11 +27,14 @@ body, body *{
 .card-text {
     color: #707070;
 }
-    
+
+footer {
+color: #707070;
+
+}
 footer img{
     width: 82px;
     height: 24px;
 }
 
 
-}
